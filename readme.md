@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.: 660610790
+รหัส นศ. : 660610790
 
 ชื่อ-สกุล : รัชชาพร บัวนุช
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-RatchapornB/index
 
 ---
 
