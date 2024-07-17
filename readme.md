@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : รัชชาพร บัวนุช
 
-GitHub Page URL : https://cpe207-students-167.github.io/lab07-RatchapornB/index
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-RatchapornB/
 
 ---
 
